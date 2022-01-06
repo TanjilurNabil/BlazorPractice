@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {}
+    "D:\\Blazor\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {}
   },
   "projects": {
-    "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {
+    "D:\\Blazor\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
+        "projectUniqueName": "D:\\Blazor\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
         "projectName": "BlazorWebAssembly",
-        "projectPath": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
-        "packagesPath": "C:\\Users\\nabil\\.nuget\\packages\\",
-        "outputPath": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorWebAssembly\\obj\\",
+        "projectPath": "D:\\Blazor\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
+        "packagesPath": "C:\\Users\\IT_Nabil\\.nuget\\packages\\",
+        "outputPath": "D:\\Blazor\\BlazorApplication\\BlazorWebAssembly\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT_Nabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
