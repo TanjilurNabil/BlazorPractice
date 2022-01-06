@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorApplication",
+    "\\BlazorApplication\\BlazorWebAssembly",
+    "\\BlazorApplication\\BlazorWebAssembly\\Pages"
+  ],
+  "SelectedNode": "\\BlazorApplication\\BlazorWebAssembly\\Pages\\Index.razor",
+  "PreviewInSolutionExplorer": false
+}

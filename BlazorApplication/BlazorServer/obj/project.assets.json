@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nabil\\.nuget\\packages\\": {}
+    "C:\\Users\\IT_Nabil\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "D:\\Blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
-      "packagesPath": "C:\\Users\\nabil\\.nuget\\packages\\",
-      "outputPath": "H:\\Practice project\\BlazorPractice\\BlazorApplication\\BlazorServer\\obj\\",
+      "projectPath": "D:\\Blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
+      "packagesPath": "C:\\Users\\IT_Nabil\\.nuget\\packages\\",
+      "outputPath": "D:\\Blazor\\BlazorApplication\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IT_Nabil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
